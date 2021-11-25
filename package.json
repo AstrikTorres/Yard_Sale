@@ -1,0 +1,15 @@
+{
+  "name": "yard_sale",
+  "version": "1.0.0",
+  "description": "Proyecto de los cursos practicos de Frontend y React de Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "frontend",
+    "react"
+  ],
+  "author": "Astrik Torres <astriktorres@gmail.com>",
+  "license": "MIT"
+}
